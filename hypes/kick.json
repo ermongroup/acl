@@ -1,0 +1,18 @@
+{
+    "dataset_file": "./hypes/dataset.json",
+    "sim_dataset_file": "./hypes/sim.json",
+    "test_size": 7,
+    "batch_size": 32,
+    "h_dim": 32,
+    "d_noise": 0.15,
+    "physics": "kick",
+    "symb_dim": 12,
+    "mode": 5,
+    "render_mode": "skele",
+    "lstm_dim": 128,
+    "im_height": 64,
+    "im_width": 64,
+    "random_seed": 0,
+    "group_size": 5,
+    "max_jpgs": -1
+}
