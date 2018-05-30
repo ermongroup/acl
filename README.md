@@ -18,7 +18,7 @@ If you find it helpful, please consider citing our paper.
 
 ## Training
 ```
-python acl.py --hypes hypes/double_v2.json --num_with_label 5 --iters 20000 --logdir path/to/log
+python acl.py --hypes hypes/kick.json --num_with_label 5 --iters 20000 --logdir path/to/log
 ```
 
 ## Samples
